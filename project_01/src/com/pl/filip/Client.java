@@ -1,4 +1,4 @@
-package com.pl.filip;
+package com.pl.filipp;
 
 import java.util.ArrayList;
 import java.util.List;
